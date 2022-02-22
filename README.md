@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FilipMihajlovic
+- 👀 I’m interested in programming, creating some 2D video games, syber security.
+- 🌱 I’m currently going to IT high school.
+- 💞️ I’m looking to collaborate with someone who would help me to improve my knowledge
+- 📫 You can reach me at mihajlovicmfilip@gmail.com.
